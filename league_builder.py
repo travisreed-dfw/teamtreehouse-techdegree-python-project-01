@@ -43,8 +43,7 @@ if __name__ == "__main__":
                             'Guardian Name(s)'] + ":" + '\n' + '\n' +
                         "Welcome to a new season of soccer! \n"
                         "Your player " +
-                        player[
-                            'Name'] + " has been assigned to the " +
+                        player['Name'] + " has been assigned to the " +
                         team_name + " team. \n"
                                     "The first practice is on July 9th "
                                     "at 6:00pm Central Time! See you then! "
