@@ -41,7 +41,7 @@ if __name__ == "__main__":
                 file.write(
                         "Dear " + player[
                             'Guardian Name(s)'] + ":" + '\n' + '\n' +
-                        "Welcome to a new season of soccer!\n  "
+                        "Welcome to a new season of soccer! \n"
                         "Your player " +
                         player[
                             'Name'] + " has been assigned to the " +
